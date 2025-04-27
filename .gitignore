@@ -1,0 +1,67 @@
+.qodo
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Local Overrides
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+test-results/
+
+# OS-Specific
+.DS_Store
+Thumbs.db
+
+# Output Files
+*.csv
+*.json
+*.txt
+*.xlsx
+
+# Custom Outputs (if generated)
+results/
+scans/
