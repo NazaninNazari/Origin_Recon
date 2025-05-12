@@ -16,7 +16,7 @@ Advanced reconnaissance tool for subdomain enumeration, IP analysis, and origin 
 ## Installation 📦
 ```bash
 git clone https://github.com/NazaninNazari/Origin_Recon.git
-cd N0aziXss-Origin-Recon
+cd Origin_Recon-tools
 
 # install dependencies
 pip install -r requirements.txt
