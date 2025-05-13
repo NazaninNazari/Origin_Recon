@@ -15,7 +15,7 @@ from pyfiglet import Figlet
 console = Console()
 
 # Banner
-BANNER = Figlet(font='slant').renderText('N0aziXss')
+BANNER = Figlet(font='slant').renderText('Origin Recon')
 console.print(Fore.CYAN + BANNER)
 print(Fore.YELLOW + "♦*"*15)
 print(Fore.CYAN + "🍓N0aziXss Origin Recon v3.0🍓")
