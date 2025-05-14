@@ -1,6 +1,7 @@
-# N0aziXss Origin Recon 🔍
+# N0aziXss Origin Recon 🍓
 
-Advanced reconnaissance tool for subdomain enumeration, IP analysis, and origin server detection with multi-layer security checks.
+## 🌟 Introduction
+**N0aziXss Origin Recon** Advanced reconnaissance tool for subdomain enumeration, IP analysis, and origin server detection with multi-layer security checks.
 
 ## Features ✨
 - Subdomain extraction via Certificate Transparency (CRT.sh)
