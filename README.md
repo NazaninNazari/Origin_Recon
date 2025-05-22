@@ -17,7 +17,7 @@
 ## Installation 📦
 ```bash
 git clone https://github.com/NazaninNazari/Origin_Recon.git
-cd Origin_Recon-tools
+cd Origin_Recon
 
 # install dependencies
 pip install -r requirements.txt
