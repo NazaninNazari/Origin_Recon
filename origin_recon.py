@@ -48,14 +48,14 @@ banner = f"""
     ██████╔╝█████╗  ██║     ██║   ██║██╔██╗ ██║          
     ██╔══██╗██╔══╝  ██║     ██║   ██║██║╚██╗██║          
     ██║  ██║███████╗╚██████╗╚██████╔╝██║ ╚████║          
-    ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝ """
+    ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝
+{Fore.YELLOW}
+╔══════════════════════════════════════════════════════╗
+║             N0aziXss Origin Recon v3.0               ║
+╚══════════════════════════════════════════════════════╝
+{Fore.RESET}"""
 
 print(banner)
-
-# Banner_Two
-print(Fore.CYAN + "♦*"*16)
-print(Fore.YELLOW + "🍓 N0aziXss Origin Recon v3.0 🍓")
-print(Fore.CYAN + "♦*"*16 + "\n")
 
 class N0aziXssScanner:
     def __init__(self, domain, enable_ssl=False, output_file=None):
